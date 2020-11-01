@@ -16,7 +16,7 @@ const SequelizeStore = require('connect-session-sequelize')(session.Store);
 //automatically store user's cookies
 const sess = {
   secret: 'Super secret secret',
-  cookie: {},
+  cookie: { maxAge: 24 * 60 * 60 * 1000}, // 24 hours
   resave: false,
   saveUninitialized: true,
   store: new SequelizeStore({
