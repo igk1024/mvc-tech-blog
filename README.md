@@ -42,8 +42,8 @@ WHEN I am idle on the page for more than a set time
 THEN I am automatically signed out of the site 
 
 ## Mock-Up
-<img src="/igk1024/mvc-tech-blog/raw/master/assets/screenshot.png" style="max-width:100%;">
+<img src="/igk1024/mvc-tech-blog/raw/master/assets/the-tech-blog-mockup.png" style="max-width:100%;">
 
 ## Project Links
-<a href="https://github.com/igk1024/mvc-tech-blog">GitHub Repository URL</a>
+<a href="https://github.com/igk1024/mvc-tech-blog">GitHub Repository URL</a><br />
 <a href="https://salty-ravine-15957.herokuapp.com/">Tech Blog Link on Heroku</a>
