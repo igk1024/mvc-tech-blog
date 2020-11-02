@@ -118,9 +118,13 @@
     padding: 3% 4%;
     color: black;
     text-align: center;
-
+    border-bottom: solid 1px lightgray;
   }
   
+  .hero h1 {
+    margin-bottom: 5px;
+  }
+
   .hero p {
     max-width: 75%;
 
